@@ -2,4 +2,4 @@
 
 # change README.md
 
-- Это ветка main
+- Это ветка task_3, созданная от main
