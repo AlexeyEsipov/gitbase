@@ -3,5 +3,5 @@
 # change README.md
 
 - Это ветка task_2, созданная от main
-
+- внес изменения в task_2
 
